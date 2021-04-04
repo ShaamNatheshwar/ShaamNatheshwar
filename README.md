@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShaamNatheshwar
-- 👀 I’m interested in AI and ML
+- 👀 I’m interested in AI , Mechatronics
 - 🌱 I’m currently learning Web dev , AI
 
 
